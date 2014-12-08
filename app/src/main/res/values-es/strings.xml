@@ -3,5 +3,7 @@
     <string name="action_settings">Configuración</string>
     <string name="action_start">Empezar</string>
     <string name="action_stop">Parar</string>
+	<string name="label_events">Eventos:</string>
+	<string name="label_name">Nombre:</string>
 
 </resources>
