@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="action_settings">Configuració</string>
+    <string name="action_start">Iniciar</string>
+    <string name="action_stop">Parar</string>
+
+</resources>
